@@ -1,0 +1,13 @@
+{
+  "backupDir": "/home12/REPLACE_WITH_CPANEL_USERNAME/wordpress-backups/REPLACE_WITH_DOMAIN",
+  "siteUrl": "https://REPLACE_WITH_DOMAIN",
+  "wpCliBinary": "/home12/REPLACE_WITH_CPANEL_USERNAME/wp-cli/wp",
+  "tarBinary": "/usr/bin/tar",
+  "updatePlugins": true,
+  "updateActiveTheme": true,
+  "updateAllThemes": true,
+  "clearCache": true,
+  "verifyUrls": [],
+  "autoRollbackOnFailure": false,
+  "keepBackups": 2
+}

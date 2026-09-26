@@ -1,0 +1,18 @@
+{
+  "backupDir": "../wp-backups",
+  "siteUrl": "",
+  "wpCliBinary": "wp",
+  "tarBinary": "tar",
+  "lockFile": "wp-agent.lock",
+  "lockTimeoutMinutes": 120,
+  "cronDefaultCommand": "status",
+  "notificationEmail": "",
+  "notificationFrom": "",
+  "updatePlugins": true,
+  "updateActiveTheme": false,
+  "updateAllThemes": false,
+  "clearCache": true,
+  "verifyUrls": ["/", "/wp-login.php"],
+  "autoRollbackOnFailure": false,
+  "keepBackups": 2
+}
